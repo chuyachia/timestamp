@@ -1,2 +1,1 @@
-# timestamp
-FCC Back-end project Timestamp microservice
+A simple app that gives back dates in unix timestamp and natural language. Project made as part of freeCodeCamp Back-end program.
